@@ -15,10 +15,6 @@ library(openxlsx)
 
 #BiocManager::install("PCAtools")
 
-
-#pheno_Table <- read.csv("C:/Users/felip/Documents/Mestrado/Tese/phenotypes_ignition_skin.csv")
-#head(pheno_Table)
-
 #is_loaded <- library("tximport", logical.return = TRUE)
 #if (is_loaded) {
 #  print("Library loaded successfully!")
